@@ -1,0 +1,7 @@
+SqlAlchemy~=2.0.29
+fastapi
+uvicorn
+requests
+jinja2
+pydantic
+python-multipart
